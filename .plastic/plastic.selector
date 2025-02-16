@@ -1,0 +1,4 @@
+repository "Improved Horror Game@arrboy@cloud"
+  path "/"
+    br "/main"
+    co "/main"
